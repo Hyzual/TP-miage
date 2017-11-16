@@ -1,11 +1,30 @@
 # Gilded Rose Kata
 
+## Installation
+
+Clone from github
+git clone https://github.com/Hyzual/TP-miage
+
+In Eclipse:
+
+- File > Import...
+- Maven > Existing Maven Projects > Browse...
+- Browse to the project location (where you cloned it)
+- Select GildedRoseKata > java (There should be a `pom.xml`)
+
+How to run tests:
+
+- Right click on the project in Project Explorer view
+- Run As > JUnit Test
+
+## Instructions
+
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime
 location in a prominent city run by a friendly innkeeper named Allison. We also buy and
 sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as
 they approach their sell by date. We have a system in place that updates our inventory
 for us. It was developed by a no-nonsense type named Leeroy, who has moved on to
-new adventures. 
+new adventures.
 
 Your task is to allow the code to accept new feature to our system so that we can begin
 selling a new category of items.
